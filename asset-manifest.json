@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/StraciWeb/shopStore/static/css/main.b380878f.css",
+    "main.js": "/StraciWeb/shopStore/static/js/main.4298c697.js",
+    "static/js/453.9433baff.chunk.js": "/StraciWeb/shopStore/static/js/453.9433baff.chunk.js",
+    "static/media/shopping-cart.png": "/StraciWeb/shopStore/static/media/shopping-cart.7ee2cabb3a34111a4901.png",
+    "index.html": "/StraciWeb/shopStore/index.html",
+    "main.b380878f.css.map": "/StraciWeb/shopStore/static/css/main.b380878f.css.map",
+    "main.4298c697.js.map": "/StraciWeb/shopStore/static/js/main.4298c697.js.map",
+    "453.9433baff.chunk.js.map": "/StraciWeb/shopStore/static/js/453.9433baff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b380878f.css",
+    "static/js/main.4298c697.js"
+  ]
+}
